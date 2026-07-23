@@ -40,4 +40,4 @@ Este projeto faz parte da minha jornada como desenvolvedor. Ele foi criado exclu
 Ian
 
 GitHub: https://github.com/1ANXTZ
-LinkedIn: *(adicione seu perfil aqui)*
+LinkedIn: https://www.linkedin.com/in/ian-b-lessa-5124b9325/
